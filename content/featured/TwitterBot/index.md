@@ -1,14 +1,12 @@
 ---
 date: '2'
-title: 'GirlScript Twitter Bot'
+title: 'Change clothes, etc'
 cover: 'bot.png'
-github: 'https://github.com/chandrikadeb7/Girlscript-Twitter-Bot'
-external: 'https://twitter.com/girlscript_bot'
+
 tech:
-  - Python
-  - tweepy
-  - Twitter API
+  - Stability AI API
+  - Meta's SAM
 showInProjects: true
 ---
 
-A Twitter Bot for [GirlScript Foundation](https://www.girlscript.tech/) that automatically retweets, favourites the tweets and follows the users who tweet with hashtag #girlscript. Checkout my tech blog on how to create it [HERE](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)
+POC for an Australian Sports Media Company

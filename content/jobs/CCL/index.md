@@ -1,11 +1,14 @@
 ---
-date: '2019-05-10'
-title: 'Systems Intern'
-company: 'CCL'
-range: 'May - June 2019'
-url: 'http://www.centralcoalfields.in/ind/'
+date: '2014-05-1'
+title: 'Software Engineer'
+company: 'Icreon Technologies'
+range: 'May 2014 - May 2015'
+url: 'https://www.icreon.com/en'
 ---
 
-- Project on developing a fully working dynamic eCommerce website using PHP and MySQL.
-- Prepared a complete report about the specifications and working of the software.
-- View [PROJECT REPORT](https://drive.google.com/file/d/1Cn6gxJ1UYpcdz97FivBBp-SsXiVbgg5-/view?usp=sharing) and [CERTIFICATE](https://drive.google.com/file/d/1R1in-IgfDj9qx9btWEeA_9Ob3db-54_c/view?usp=sharing)
+Projects
+
+● StartingPoint, MLBPA - These are web based ERP software. Worked
+as Individual contributor in a team of five, responsible for full stack
+Javascript development with MS-SQL.
+Technologies: AngularJS, .NET API, MS SQL

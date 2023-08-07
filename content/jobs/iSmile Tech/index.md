@@ -1,11 +1,22 @@
 ---
-date: '2020-07-15'
-title: 'Technical Writer'
-company: 'iSmile Tech'
-range: 'July 2020 - August 2020'
-url: 'https://www.ismiletechnologies.com/'
+date: '2015-08-1'
+title: 'Senior Software Engineer'
+company: 'To The New Digital'
+range: 'August 2015 - May 2016'
+url: 'https://www.tothenew.com/'
 ---
 
-- Drafted all the website content and promotional templates on HubSpot for the startup.
-- Reviewed the tech blogs and helped the Sales & Marketing Team.
-- View [CERTIFICATE](https://drive.google.com/file/d/1xc4SHoXSFWmLQfwBeYq7WwB5EjXsqMV9/view?usp=sharing) and [PERFORMANCE REVIEW REPORT](https://drive.google.com/file/d/1FVNB7SLHLwWB_QOSZFxIiSdy8O6Xbj2w/view?usp=sharing)
+
+
+● Design & development of AngularJS and MEAN stack apps
+
+● Handled sales calls, hiring new engineers & mentoring team
+
+
+Projects
+
+
+● Buildfire - It is one of the leading no code mobile application
+development platforms. Worked in a team of ten developers while
+leading a team of two, being responsible for UI/UX development.
+Technologies - MEAN stack
